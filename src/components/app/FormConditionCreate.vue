@@ -10,5 +10,15 @@
                 </p>
             </div>
         </div>
+
     </div>
 </template>
+
+<script>
+
+</script>
+
+<style scoped lang="sass">
+    .create-new-condition
+        cursor: pointer
+</style>

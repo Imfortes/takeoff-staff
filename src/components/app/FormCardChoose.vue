@@ -5,7 +5,7 @@
             <div class="choose__item-select form-inner__item-condition">
                 <label for="choose">Условие 4</label>
                 <select name="" id="choose">
-                    <option value="Возраст" selected>Выбрать условие</option>
+                    <option value="Choose" selected>Выбрать условие</option>
 
                 </select>
             </div>
@@ -18,3 +18,4 @@
         </div>
     </div>
 </template>
+
